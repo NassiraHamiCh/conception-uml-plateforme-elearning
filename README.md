@@ -91,4 +91,4 @@ Supervisé par : **Pr. Anas EL ANSARI**
 
 ## 📝 Licence
 
-Projet académique — tous droits réservés © 2025 Nassira Hamich
+Projet académique — tous droits réservés © 2026 Nassira Hamich
