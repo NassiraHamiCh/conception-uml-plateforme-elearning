@@ -74,7 +74,7 @@ IA & Sécurité     →  SystemeIA, Infractions, Liste de surveillance
 
 ## 📄 Document
 
-📎 [`NassiraHamich-prjUml.pdf`](./NassiraHamich-prjUml.pdf) — Rapport complet (34 pages)
+📎 [`NassiraHamich-prjUml.pdf`](./rapport-conception-uml-plateforme-elearning.pdf) — Rapport complet (34 pages)
 
 ---
 
